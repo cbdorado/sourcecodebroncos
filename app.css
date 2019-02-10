@@ -1,0 +1,67 @@
+body {
+  background: #3949ab;
+  /* font-family: 'Source Code Pro', monospace; */
+  font-family: 'Rubik', sans-serif;
+}
+
+.jumbotron {
+  background-color: #00227b;
+}
+
+
+#title {
+  color: #ffcc80;
+}
+#subtitle {
+  color: #f8ffd7;
+}
+
+#arrow {
+  color: #ff867c;
+}
+
+#secondaryLight {
+  color: #ffffb0;
+}
+
+#lightText {
+  color: white;
+  font-size: 1.0rem;
+}
+
+#mediumText {
+  color: #ffcc80;
+}
+
+#mainNavbar {
+  background-color: #00227b;
+}
+
+.blurb p {
+  line-height: 2;
+}
+
+.content {
+  margin-top: 100px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: #ffffb0;
+}
+
+td, th {
+  text-align: left;
+  padding: 8px;
+}
+
+.navbar.scrolled {
+  background: #3949ab;
+}
+
+.img-thumbnail {
+  height: auto;
+  width: 200px;
+}
